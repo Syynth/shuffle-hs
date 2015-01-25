@@ -14,7 +14,7 @@ maintainer:          ben.cochrane2112@gmail.com
 build-type:          Simple
 cabal-version:       -any
 
-build-depends: base >= 4.0, directory >= 1.2
+build-depends: base >= 4.0, directory >= 1.2, random >= 1.0
 
 executable: shuffle
 main-is: Main.hs
